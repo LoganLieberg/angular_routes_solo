@@ -1,0 +1,54 @@
+@font-face {font-family: Disney; src: url('waltograph42.otf'); }
+@font-face {font-family: adventureTime; src: url('PiecesofEight.ttf'); }
+
+.adventure {
+  font-family: adventureTime;
+  font-size: 30px;
+  background-image: url("/images/jakebackground.jpeg");
+  background-repeat: no-repeat;
+}
+
+.time  {
+  font-family: adventureTime;
+  font-size: 20px;
+
+  background-size: 200% 200%;
+}
+.jake {
+  background-image: url("/images/jakebackground2.jpg");
+}
+
+.nobackground-jake {
+  font-family: adventureTime;
+  font-size: 25px;
+}
+.disney {
+
+  font-family: Disney;
+  font-size: 30px;
+}
+
+.disney p {
+  font-size: 20px;
+}
+.disney h2 {
+  background-image: url("/images/plutobackground2.jpg");
+  font-size: 25px;
+}
+
+.pluto {
+  background-image: url("/images/plutobackground.jpg");
+}
+.cartoon {
+  font-family: fantasy;
+
+}
+
+img {
+  height: 15;
+  width: 15%;
+}
+
+a {
+  color: black;
+}
